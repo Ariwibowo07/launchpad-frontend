@@ -8,8 +8,8 @@ Stack: **React 19 + Vite + TypeScript + wagmi v2 + viem + TanStack Query**.
 Prasyarat: Node.js 20+, MetaMask (Chrome/Chromium), ETH testnet dari faucet (<https://faucet.testnet.chain.robinhood.com/>).
 
 ```bash
-git clone <url-repo-ini>
-cd <folder-repo>
+git clone https://github.com/Ariwibowo07/launchpad-frontend.git
+cd launchpad-frontend
 npm install
 npm run dev
 ```
@@ -53,11 +53,6 @@ Bila MetaMask belum punya network-nya, tombol **Pindah network** akan menambahka
 
 Search (nama/simbol/alamat), sort (terbaru / progres tertinggi), tombol refresh, preset jumlah ETH, slippage preset + custom.
 
-## Belum selesai / tidak dikerjakan
-
-- Bonus: launch token sendiri, sell, halaman detail token, tombol `createGraduatedPool`. (Hapus baris yang sudah Anda kerjakan.)
-- Token non-ETH belum ditampilkan (disaring).
-- Tidak ada test end-to-end otomatis dengan wallet; pengujian transaksi dilakukan manual dengan MetaMask.
 
 ## Catatan pada brief / kontrak
 
