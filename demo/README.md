@@ -1,15 +1,30 @@
 # Demo
 
-Taruh screenshot / video demo aplikasi yang berjalan di folder ini.
+Screenshot aplikasi yang berjalan di Robinhood Chain Testnet.
 
-Daftar yang disarankan:
+## 1. Wallet terhubung (alamat + saldo ETH)
+![Wallet terhubung](01-connect.png)
 
-1. `01-connect.png` — wallet terhubung, alamat + saldo ETH tampil
-2. `02-wrong-network.png` — banner peringatan + tombol pindah network
-3. `03-token-list-desktop.png` — daftar token (5 token contoh)
-4. `04-token-list-mobile.png` — tampilan di layar HP
-5. `05-buy-form.png` — form beli dengan perkiraan token
-6. `06-wallet-confirm.png` — state "Konfirmasi di wallet"
-7. `07-success.png` — pesan sukses + link explorer
-8. `08-grad-disabled.png` — token GRAD, tombol beli nonaktif
-9. `09-error-states.png` — loading / kosong / gagal (opsional)
+## 2. Peringatan network salah + tombol pindah network
+![Network salah](02-wrong-network.png)
+
+## 3. Daftar token (desktop)
+![Daftar token desktop](03-token-list-desktop.png)
+
+## 4. Daftar token (HP)
+![Daftar token mobile](04-token-list-mobile.png)
+
+## 5. Form beli dengan perkiraan token
+![Form beli](05-buy-form.png)
+
+## 6. Konfirmasi di wallet
+![Konfirmasi wallet](06-wallet-confirm.png)
+
+## 7. Pembelian berhasil + link explorer
+![Sukses beli](07-success.png)
+
+## 8. Token GRAD: tombol beli nonaktif
+![GRAD nonaktif](08-grad-disabled.png)
+
+## 9. State loading / kosong / gagal
+![State error](09-error-states.png)
